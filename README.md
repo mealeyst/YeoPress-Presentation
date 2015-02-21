@@ -5,8 +5,8 @@ This repository has been set up as an educational repository for those looking
 to learn about what Yeoman has to offer. This repo contains two major parts a
 presentational repo (built using [reveal.js](http://lab.hakim.se/reveal-js/#/)
 and [Yeoman](http://yeoman.io/)), and a bare bones site repository that also 
-happens to be its own repositiory found: [here](www.example.com) and contains
-instructions on how to get a working wordpress site up and running.
+happens to be its own repository found: [here](www.example.com) and contains
+instructions on how to get a working Wordpress site up and running.
 
 _(Note: You should have some experience with both Github as well as the Command
 Prompt <Windows> or Terminal <Unix>)_
@@ -63,6 +63,6 @@ _(Note: If you choose Option 2, you can disregard Option 1)_
 	- With your Terminal or Command Prompt still open and while still in the
 	same directory, run the following command:
 	```grunt serve```
-	The slideshow should now load up on your defualt internet browser!
+	The slideshow should now load up on your default internet browser!
 
 
