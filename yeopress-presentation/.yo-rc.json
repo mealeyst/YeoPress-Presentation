@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Yeopress",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "mealeyst",
+    "githubRepository": "YeoPress-Presentation"
+  }
+}
