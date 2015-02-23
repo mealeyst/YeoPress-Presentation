@@ -1,1 +1,8 @@
-["index.md", "about.md", ["what.md", "what_node.md", "what_yo.md", "what_bower.md", "what_grunt.md"], "why.md", ["how.md", "how_wp.md"]]
+[
+"index.md",
+"about.md",
+["what.md", "what_node.md", "what_yo.md", "what_bower.md", "what_grunt.md"],
+"why.md",
+["how.md", "how_wp.md"],
+"northpd.md",
+"thanks.md"]
