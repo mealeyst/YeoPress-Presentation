@@ -1,12 +1,12 @@
 #About the Yeopress Presentation Project
-##The cool way to kickstart your Wordpress Project
+##The cool way to kickstart your WordPress Project
 
 This repository has been set up as an educational repository for those looking
 to learn about what Yeoman has to offer. This repo contains two major parts a
 presentational repo (built using [reveal.js](http://lab.hakim.se/reveal-js/#/)
 and [Yeoman](http://yeoman.io/)), and a bare bones site repository that also 
 happens to be its own repository found: [here](www.example.com) and contains
-instructions on how to get a working Wordpress site up and running.
+instructions on how to get a working WordPress site up and running.
 
 _(Note: You should have some experience with both Github as well as the Command
 Prompt <Windows> or Terminal <Unix>)_
@@ -41,13 +41,12 @@ _(Note: If you choose Option 1, you can disregard Option 2)_
 	- Open either your Terminal or Command Prompt and enter the following
 	```npm install -g yo```
 	
-+ ####(Option 2:) Install Bower and Grunt
++ ####(Option 2:) Install Bower
 _(Note: If you choose Option 2, you can disregard Option 1)_
 
-	- ####Install Bower
+	- *Install Bower*
 		+ Open your Terminal or Command Prompt and enter the following:
 		```npm install -g bower```
-
 
 + ####Set up the slideshow!
 	- With your Terminal or Command Prompt still open, navigate to the directory
